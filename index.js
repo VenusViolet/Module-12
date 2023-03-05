@@ -1,4 +1,6 @@
-const  { prompt } = require('inquirer');
+const inquirer = require('inquirer');
+
+
 const db = require('./db');
 
 require('console.table');
