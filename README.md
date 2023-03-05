@@ -1,7 +1,7 @@
 # Module-12
 
 ## Description 
-The real-world full-stack application uses Express.js back end and a JSON file to generate an HTML webpage that cna be used to write and save notes. 
+The real-world full-stack application uses a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 ## Table of Contents
 1. Description
@@ -12,13 +12,12 @@ The real-world full-stack application uses Express.js back end and a JSON file t
 6. Licence
 
 ## Installation 
-To access the webpage you can fork the repository so that you can start npm and express. Then you can start taking your own notes!
+To access the webpage you can fork the repository so that you can do npm start in the command line to begin it.
 
 ## Usage
-This accessible web application works when the user starts npm on the command line and the port 3000 listens to the live URL. Once this is completed, the webpage is live and notes can be taken. 
-
+This accessible web application works when the user starts npm on the command line and uses MySQL database to store information in tables.
 ## Credits
-Instructor Eli Montoya assisted with this project. 
+Instructor Eli Montoya and TA Kevin Long assisted with this project. 
 
 ## Licence 
 MIT License
